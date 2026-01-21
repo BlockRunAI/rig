@@ -89,10 +89,10 @@ Every API request is settled on-chain with cryptographic proof:
 
 | Model | Cost | Latency | Transaction |
 |-------|------|---------|-------------|
-| Claude Sonnet 4 | 0.016239 USDC | ~5s | [0x6b2e42f5...](https://basescan.org/tx/0x6b2e42f5341bbf51df123756789553d05621db877cebecdcc5bddf00fdd1fd34) |
-| GPT-4o | 0.010821 USDC | ~4s | [0x2ebec29e...](https://basescan.org/tx/0x2ebec29ef5b2ed0706dc64c5320d79613ec8d469b008da477f3bf4908128233a) |
-| DeepSeek | 0.001 USDC | ~3s | [0xb960c54e...](https://basescan.org/tx/0xb960c54e34a65b8811100672a3ebb3d29cda764423c68969f043a028ddf5e193) |
-| Claude + Tools | 0.01621 USDC | ~4s | [0xf1a5c831...](https://basescan.org/tx/0xf1a5c8318c1e75e84ffaa10a12013cd2ddecfbabb59ea126688c3594300b52b6) |
+| Claude Sonnet 4 | 0.016239 USDC | ~500ms | [0x6b2e42f5...](https://basescan.org/tx/0x6b2e42f5341bbf51df123756789553d05621db877cebecdcc5bddf00fdd1fd34) |
+| GPT-4o | 0.010821 USDC | ~400ms | [0x2ebec29e...](https://basescan.org/tx/0x2ebec29ef5b2ed0706dc64c5320d79613ec8d469b008da477f3bf4908128233a) |
+| DeepSeek | 0.001 USDC | ~300ms | [0xb960c54e...](https://basescan.org/tx/0xb960c54e34a65b8811100672a3ebb3d29cda764423c68969f043a028ddf5e193) |
+| Claude + Tools | 0.01621 USDC | ~400ms | [0xf1a5c831...](https://basescan.org/tx/0xf1a5c8318c1e75e84ffaa10a12013cd2ddecfbabb59ea126688c3594300b52b6) |
 
 **Test Wallet:** [0x4069560641ec74acfc74ddec64181f588c64e3a7](https://basescan.org/address/0x4069560641ec74acfc74ddec64181f588c64e3a7#tokentxns)
 
