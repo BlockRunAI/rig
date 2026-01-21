@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.29.1](https://github.com/0xPlaygrounds/rig/compare/rig-core-v0.29.0...rig-core-v0.29.1) - 2026-01-21
+
+### Added
+
+- *(agent)* allow on_tool_call hook to reject tool execution ([#1284](https://github.com/0xPlaygrounds/rig/pull/1284))
+
 ## [0.29.0](https://github.com/0xPlaygrounds/rig/compare/rig-core-v0.28.0...rig-core-v0.29.0) - 2026-01-20
 
 ### Added
